@@ -10,12 +10,12 @@ I'm a Data Scientist with a strong interest in Machine Learning. My passion lies
 - 🔍 I'm actively on the lookout for opportunities that allow me to bring my perspective and skills to this dynamic field, making a meaningful impact.
 
 #### My Skills
-- 💻 Python SQL
-- 📚 Pandas Numpy Matplotlib Seaborn Scikit-learn FastAPI Streamlit
-- 🛢 SQLServer MySQL BigQuery
-- 🔧 Docker Apache Hadoop Apache Hive Apache Spark
+- 💻 Python | SQL
+- 📚 Pandas | Numpy | Matplotlib | Seaborn | Scikit-learn | FastAPI | Streamlit
+- 🛢 SQLServer | MySQL | BigQuery
+- 🔧 Docker | Hadoop | Hive | Spark
 - 📊 Power BI
-- ⚙️ GitHub Jupyter Google Colab Visual Studio Code
+- ⚙️ GitHub | Jupyter | Google Colab | Visual Studio Code
 
 #### How to reach me: 
 - 📫 sofia.jrosell@gmail.com

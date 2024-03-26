@@ -19,4 +19,4 @@ I'm a Data Scientist with a strong interest in Machine Learning. My passion lies
 - ⚙️ GitHub Jupyter Google Colab Visual Studio Code
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofiajacky&layout=compact)
